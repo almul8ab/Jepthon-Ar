@@ -9,10 +9,10 @@
 𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇶"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/Imteyaz_king)
-<a href="https://t.me/King_fighter_Bot_support"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
+[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/jepthon)
+<a href="https://t.me/jepthon1"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/KingFighterSupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/jepthon"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Imteyazking01&label=Profile%20Views&color=red&style=flat-square" alt="CyberBoyAyush" /> </p>
 
